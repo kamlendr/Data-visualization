@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  word-break: break-word;
+}
+
+.App {
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.App main {
+  flex-grow: 1;
+}
+
+.App-header {
+  text-align: center;
+}
+.App nav {
+  display: grid;
+  grid-auto-flow: column;
+  margin-top: 36px;
+}
+
+.App nav > div {
+  cursor: pointer;
+  padding: 12px;
+  text-align: center;
+  background: #030f7c0e;
+}
+
+.App nav > div.active {
+  background: #030f7c;
+  color: #fff;
+}

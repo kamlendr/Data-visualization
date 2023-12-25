@@ -1,0 +1,24 @@
+div:has(> .table) {
+  padding: 36px;
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  padding: 36px;
+  min-width: 60%;
+  table-layout: fixed;
+  width: 900px;
+}
+.table,
+.table th,
+.table td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.table th,
+.table td {
+  padding: 20px;
+}
