@@ -31,5 +31,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 SCREENSHOTS:
 
-![winedata](https://github.com/kamlendr/schedule-app/assets/77038673/31192009-f897-4407-a910-f0a776f6e880)
-![winedata_2](https://github.com/kamlendr/schedule-app/assets/77038673/6eb9cbcd-63c8-4f5e-bfd4-d564eccc10b4)
+![localhost_3000_ (1)](https://github.com/kamlendr/Data-visualization/assets/77038673/1a6dada7-0878-46e1-b124-e52258da703b)
+![localhost_3000_](https://github.com/kamlendr/Data-visualization/assets/77038673/43256f55-7274-4b66-a268-1f696312e552)
