@@ -4,7 +4,8 @@ export function calculateMean(array) {
   return average;
 }
 
-export function calculateMedian(arr) {
+export function calculateMedian(array) {
+  let arr = [...array];
   arr.sort((a, b) => a - b);
   const mid = Math.floor(arr.length / 2);
   return arr.length % 2 === 0 ? (arr[mid] + arr[mid - 1]) / 2 : arr[mid];
