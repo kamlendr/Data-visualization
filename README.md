@@ -31,5 +31,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 SCREENSHOTS:
 
-![localhost_3000_ (1)](https://github.com/kamlendr/Data-visualization/assets/77038673/1a6dada7-0878-46e1-b124-e52258da703b)
-![localhost_3000_](https://github.com/kamlendr/Data-visualization/assets/77038673/43256f55-7274-4b66-a268-1f696312e552)
+![localhost_3000_ (3)](https://github.com/kamlendr/Data-visualization/assets/77038673/53096fa0-f1f7-4cd0-ab1d-540f2e4cbf35)
+![localhost_3000_ (2)](https://github.com/kamlendr/Data-visualization/assets/77038673/3b751262-ba66-45fe-9350-d307562d08eb)
